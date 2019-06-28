@@ -3,8 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "script.js",
-    "scripts": {
-    },
+    "scripts": {},
     "repository": {
         "type": "git",
         "url": "https://github.com/MichalAW/27.3.Actions.git"
@@ -16,8 +15,9 @@
         "url": "https://github.com/MichalAW/27.3.Actions/issues"
     },
     "homepage": "https://github.com/MichalAW/27.3.Actions#readme",
-    "devDependencies": {
-    },
+    "devDependencies": {},
     "dependencies": {
+        "redux": "^4.0.1",
+        "uuid": "^3.3.2"
     }
 }
